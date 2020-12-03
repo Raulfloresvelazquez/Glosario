@@ -1,0 +1,32 @@
+<html>
+    <head>
+    <link href="../estilo.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+    <h1>Glosario </h1>
+        <div id="main">
+            <div id="ficha">
+                <div id="termino">
+                Introduccion al Derecho 
+                </div>
+                <div id="definicion ">La palabra proviene del vocablo latino directum, que significa no
+apartarse del buen camino, seguir el sendero señalado por la ley, lo que
+se dirige o es bien dirigido. En general se entiendo por Derecho,
+conjunto de normas jurídicas, creadas por el estado para regular la
+conducta externa de los hombres y en caso de incumplimiento esta
+prevista de una sanción judicial.
+“El Derecho es el conjunto de normas que imponen deberes y normas
+que confieren facultades, que establecen las bases de convivencia
+social y cuyo fin es dotar a todos los miembros de la sociedad de los
+mínimos de seguridad, certeza, igualdad, libertad y justicia</div>
+           <a href="../index.html.html"><div id="circulo"></div></a> 
+               </div>
+           a
+            <div id="glosario">
+            </div>
+            <footer>
+            <h5>Bibliografia:https://uniteconline.blackboard.com/bbcswebdav/pid-6137811-dt-content-rid-131566041_1/courses/UNI_211_04_PRP_PR5CD1_TB508/Derecho%20unidad%201.pdf</h5>
+            </footer>
+        </div>
+    </body>
+</html>
